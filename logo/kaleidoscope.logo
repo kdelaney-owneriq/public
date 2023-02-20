@@ -1,0 +1,28 @@
+# run on a browser from this site: https://www.calormen.com/jslogo
+
+to randomcolor
+  setcolor pick [ red orange green blue violet yellow ]
+end
+to shape :sides :size
+  repeat :sides [ fd :size rt 360 / :sides ]
+end
+to rose :sides :angle
+  repeat ( 360 % :angle + 1 ) * 360 / :angle [ randomcolor shape :sides 1000 / :sides rt :angle ]
+end
+to set_variables 
+  test ( random 10 ) >= 7 iftrue [ make "sides 100 ] iffalse [ make "sides ( random 3 10 ) ] 
+  make "angle ( random 3 270 )
+  settextsize 30
+  ct
+  ( pr "Logo "Kaleidoscope )
+  type "sides: show :sides
+  type "angle: show :angle
+end
+to random_rose
+  set_variables
+  ht cs rose :sides :angle
+end
+to random_rose_loop :steps
+  make "ws 60 * 1.5 repeat :steps [ random_rose wait :ws ] ( pr "End "of "loop )
+end
+random_rose_loop 50
