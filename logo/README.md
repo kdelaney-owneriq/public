@@ -1,12 +1,12 @@
 # Logo Kaleidoscope
-kaleidoscope.logo is a fun demonstration of logo.
+kaleidoscope.logo is a fun demonstration of the logo programming language.
 
 Source code can be run on any browser from this site: https://www.calormen.com/jslogo
 
 ## Execution  
 The program draws polygons with randomly selected number of `sides` 3 to 10. Or, sometimes, 100 `sides`, to emulate a cicle.  
 
-Then it draws the polygon repeatedly, each time turning by a randomly selected `angle` from 3 to 270 degrees. This is repeated until it has turned enough times that it has returned to the starting point. The maximum number of iterations is `angle * 360`, but, the process will terminate sooner if `angle` evenly divides 360 - i.e., `360 % angle == 0`.  
+The polygon is drawn repeatedly, each time turning by a randomly selected `angle` from 3 to 270 degrees, until it has turned enough times that it has returned to the starting point.  
 
 Finally, the program will run the loop repeatedly, each time randomly selecting new values for `sides`, `angle` and printing them along with the image.
 
