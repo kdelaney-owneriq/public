@@ -14,4 +14,4 @@ Finally, the program will run the loop repeatedly, each time randomly selecting 
 ![example_4](https://github.com/kdelaney-owneriq/public/blob/master/logo/images/Logo_kaledoscope_4_229.png?raw=true)
 ![example_5](https://github.com/kdelaney-owneriq/public/blob/master/logo/images/Logo_kaledoscope_5_118.png?raw=true)
 ![example_6](https://github.com/kdelaney-owneriq/public/blob/master/logo/images/Logo_kaledoscope_7_136.png?raw=true)
-![example_7](https://github.com/kdelaney-owneriq/master/logo/images/Logo_kaledoscope_9_179.png?raw=true)
+![example_7](https://github.com/kdelaney-owneriq/public/blob/master/logo/images/Logo_kaledoscope_9_179.png?raw=true)
