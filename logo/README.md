@@ -1,5 +1,5 @@
 # Logo Kaleidoscope
-![kaleidoscope.logo](https://github.com/kdelaney-owneriq/public/blob/master/logo/src/kaleidoscope.logo) is a fun demonstration of the logo programming language.
+[kaleidoscope.logo](https://github.com/kdelaney-owneriq/public/blob/master/logo/src/kaleidoscope.logo) is a fun demonstration of the logo programming language.
 
 Source code can be run on any browser from this site: https://www.calormen.com/jslogo
 
