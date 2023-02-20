@@ -1,5 +1,3 @@
-# tic-tac-toe.sh
-
 #!/usr/bin/bash
 
 player_1="X"
