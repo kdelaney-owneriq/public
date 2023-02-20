@@ -8,10 +8,10 @@ Then it draws the polygon repeatedly, each time turning by a randomly selected `
 Finally, the program will run the loop repeatedly, each time randomly selecting new values for `sides`, `angle` and printing them along with the image.
 
 ## Gallery
-![example_1](https://github.com/kdelaney-owneriq/public/blob/master/logo/imagess/Logo_kaledoscope_100_137.png?raw=true)
-![example_2](https://github.com/kdelaney-owneriq/public/blob/master/logo/imagess/Logo_kaledoscope_3_134.png?raw=true)
-![example_3](https://github.com/kdelaney-owneriq/public/blob/master/logo/imagess/Logo_kaledoscope_3_151.png?raw=true)
-![example_4](https://github.com/kdelaney-owneriq/public/blob/master/logo/imagess/Logo_kaledoscope_4_229.png?raw=true)
-![example_5](https://github.com/kdelaney-owneriq/public/blob/master/logo/imagess/Logo_kaledoscope_5_118.png?raw=true)
-![example_6](https://github.com/kdelaney-owneriq/public/blob/master/logo/imagess/Logo_kaledoscope_7_136.png?raw=true)
-![example_7](https://github.com/kdelaney-owneriq/public/blob/master/logo/imagess/Logo_kaledoscope_9_179.png?raw=true)
+![example_1](https://github.com/kdelaney-owneriq/public/logo/imagess/Logo_kaledoscope_100_137.png?raw=true)
+![example_2](https://github.com/kdelaney-owneriq/public/logo/imagess/Logo_kaledoscope_3_134.png?raw=true)
+![example_3](https://github.com/kdelaney-owneriq/public/logo/imagess/Logo_kaledoscope_3_151.png?raw=true)
+![example_4](https://github.com/kdelaney-owneriq/public/logo/imagess/Logo_kaledoscope_4_229.png?raw=true)
+![example_5](https://github.com/kdelaney-owneriq/public/logo/imagess/Logo_kaledoscope_5_118.png?raw=true)
+![example_6](https://github.com/kdelaney-owneriq/public/logo/imagess/Logo_kaledoscope_7_136.png?raw=true)
+![example_7](https://github.com/kdelaney-owneriq/master/logo/imagess/Logo_kaledoscope_9_179.png?raw=true)
