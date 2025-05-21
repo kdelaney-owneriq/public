@@ -1,4 +1,5 @@
 #! /usr/bin/awk
+
 # file:     row_position_counter.awk
 # purpose:  numbers the characters for each line of input
 # author:   kd
