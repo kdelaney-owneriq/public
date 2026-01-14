@@ -6,7 +6,7 @@ git_diff ()
 {
     local DIR="$(pwd)";
     case "${DIR}" in
-        *custom*)
+        *custom )
             DEFAULT_BRANCH="beta"
         ;;
         *)
